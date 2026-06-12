@@ -1,5 +1,8 @@
 # 📝 To-Do List Engine
 
+![Python](https://img.shields.io/badge/Python-Programming-blue)
+![DecodeLabs](https://img.shields.io/badge/Internship-DecodeLabs-green)
+
 ## Developed By
 **Syeda Neha Batool**
 
@@ -40,5 +43,5 @@ Through this project, I strengthened my understanding of Python fundamentals, da
 - Persistent file storage
 - Search and update functionality
 
-
+---
 **Developed as part of the DecodeLabs Python Programming Internship Program.**
